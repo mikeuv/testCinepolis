@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="color_primary">#3F51B5</color>
+    <color name="color_primary_dark">#303F9F</color>
+    <color name="color_accent">#FF4081</color>
+
+    <!--Text-->
+    <color name="primaryTextDark">@color/text_cod_gray</color>
+    <color name="secondaryTextDark">@color/text_vulcan</color>
+    <color name="disabledTextDark">@color/text_nero</color>
+    <color name="dividersDark">@color/text_bunker</color>
+
+    <color name="primaryTextWhite">@color/text_white</color>
+    <color name="secondaryTextWhite">@color/text_silver_hand</color>
+    <color name="disabledTextWhite">@color/text_dove_grey</color>
+    <color name="dividersWhite">@color/text_tuna</color>
+
+    <color name="black_alpha_20">#33000000</color>
+    <color name="black_alpha_40">#66000000</color>
+    <color name="black_alpha_60">#99000000</color>
+    <color name="black_alpha_80">#CC000000</color>
+
+    <color name="white_alpha_20">#33FFFFFF</color>
+    <color name="white_alpha_40">#66FFFFFF</color>
+    <color name="white_alpha_60">#99FFFFFF</color>
+    <color name="white_alpha_80">#CCFFFFFF</color>
+
+    <!--Text colors-->
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_silver_hand">#B3FFFFFF</color>
+    <color name="text_dove_grey">#4DFFFFFF</color>
+    <color name="text_tuna">#1FFFFFFF</color>
+
+    <color name="text_cod_gray">#DE000000</color>
+    <color name="text_vulcan">#8A000000</color>
+    <color name="text_nero">#42000000</color>
+    <color name="text_bunker">#1E000000</color>
+
+    <!--Text colors without alpha-->
+    <color name="text_white_no_alpha">#FFFFFF</color>
+    <color name="text_silver_hand_no_alpha">#C2C2C3</color>
+    <color name="text_dove_grey_no_alpha">#6E7071</color>
+    <color name="text_tuna_no_alpha">#494B4D</color>
+
+    <color name="text_cod_gray_no_alpha">#060707</color>
+    <color name="text_vulcan_no_alpha">#161718</color>
+    <color name="text_nero_no_alpha">#242627</color>
+    <color name="text_bunker_no_alpha">#2B2D2F</color>
+
+    <!--Transparent-->
+    <color name="transparent">#0000</color>
+
+    <!--Colors-->
+    <color name="black">#000</color>
+    <color name="white">#FFF</color>
+
+
+    <color name="md_dark_primary_text">#FFFFFFFF</color>
+    <color name="md_dark_secondary">#B3FFFFFF</color>
+
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cinepolis</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Login texts -->
+
+    <string name="txt_login">Iniciar Sesión</string>
+    <string name="txt_forgot_password">¿Olvidaste tu usuario o contraseña?</string>
+    <string name="txt_password">Contraseña</string>
+
+    <string name="txt_username">Usuario</string>
+    <string name="txt_username_error">Requerido</string>
+    <string name="txt_password_error">Requerido</string>
+    <string name="txt_password_required">Contraseña requerida</string>
+    <string name="txt_user_required">Usuario requerido</string>
+
+    <!-- controllers texts -->
+    <string name="txt_content_unavailable">Content no available</string>
+    <string name="txt_no_internet">Internet no available</string>
+
+    <!-- static texts -->
+    <string name="txt_static_synopsis">Synopsis</string>
+
+</resources>
